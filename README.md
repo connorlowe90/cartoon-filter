@@ -1,3 +1,3 @@
 # cartoon filter
  Python GUI that implements a cartoon filter
-![Alt text](Result images/connor_1OUT.jpg?raw=true "Title")
+![imgageprocessing](https://github.com/connorlowe90/cartoon-filter/blob/main/Result%20images/4_1OUT.jpg)
